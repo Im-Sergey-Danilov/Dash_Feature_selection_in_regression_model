@@ -1,0 +1,4 @@
+venv
+*.рус
+.DS_Store
+.env
