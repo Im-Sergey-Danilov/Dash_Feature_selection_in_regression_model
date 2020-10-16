@@ -1,4 +1,4 @@
 # About
 you can find this project by the following link:
 <br>
-[a link](https://danilov-feature-selection.herokuapp.com)
+[Link to the deployed project](https://danilov-feature-selection.herokuapp.com)
